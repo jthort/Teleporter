@@ -1,0 +1,10 @@
+name: HubTeleporter
+version: 1.0
+main: me.Ian.Teleport.Teleport
+description: 
+    Teleport back to the hub.
+commands:
+    hub:
+        description: Teleport back to the hub
+        usage: |
+           /hub
